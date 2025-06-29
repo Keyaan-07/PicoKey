@@ -19,4 +19,8 @@ Beginning my work on PicoKey from today. The things i will try to accomplish:
 
 I wanted to use the RP2040 but it is apparently not secure enough so now i have to use the RP2350 :(
 
-Gotta start with the schematic
+Gotta start with the schematic(i didn't)
+
+# June 29 2025
+
+Finally, my test is over today and now i can work on this PCB. so, starting with the schematic from now on.
