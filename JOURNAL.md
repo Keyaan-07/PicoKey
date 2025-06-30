@@ -27,3 +27,5 @@ Finally, my test is over today and now i can work on this PCB. so, starting with
 
 # June 30 2025
 I did the work yesterday but then i was ordered to chut down the laptop immediately, so i had to go, anyways, here are the pictures from yesterday:
+
+![schematic](/images/29/schematic.png)
