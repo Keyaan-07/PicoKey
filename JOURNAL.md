@@ -24,3 +24,6 @@ Gotta start with the schematic(i didn't)
 # June 29 2025
 
 Finally, my test is over today and now i can work on this PCB. so, starting with the schematic from now on.
+
+# June 30 2025
+I did the work yesterday but then i was ordered to chut down the laptop immediately, so i had to go, anyways, here are the pictures from yesterday:
