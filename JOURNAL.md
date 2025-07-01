@@ -41,5 +41,8 @@ I have thought of something, maybe, i can also make the device as an HID, like h
 I think the schematic is complete, here it is:  
 ![schematic july 1](/images/1/schematic.png)
 
-other than the schematic, i worked on the pcb, here is the current progress:
-![pcb july 1](/images/1/pcb.png)
+other than the schematic, i worked on the pcb, here is the current progress:  
+![pcb july 1](/images/1/pcb.png)  
+
+I also added an ESD protection IC, here it is:  
+![esd IC](/images/1/esd.png)  
