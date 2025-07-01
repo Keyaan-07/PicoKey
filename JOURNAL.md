@@ -13,10 +13,11 @@ I might start from tomorrow.
 # June 27 2025
 
 Beginning my work on PicoKey from today. The things i will try to accomplish:
-> PCB Trace USB Connector
-> Use an RP2350 instead of RP2040 this time:(
-> smallest possible footprint
-
+> PCB Trace USB Connector  
+> Use an RP2350 instead of RP2040 this time:(  
+> smallest possible footprint  
+> also add HID compatability
+  
 I wanted to use the RP2040 but it is apparently not secure enough so now i have to use the RP2350 :(
 
 Gotta start with the schematic(i didn't)
