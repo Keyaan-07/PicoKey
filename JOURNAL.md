@@ -51,4 +51,9 @@ other than the schematic, i worked on the pcb, here is the current progress:
 I also added an ESD protection IC, here it is:  
 ![esd IC](/images/1/esd.png)  
 
-### TIme Spent Today: about 1 hour
+
+I worked more on the PCB, yeah, i realised that making a dual sided PCB is HARD, i alwasys that that i could do it easily, but no, it is hard :/
+Anyways, here is the updated PCB:  
+![pcb july 1](/images/1/pcb_2.png)  
+
+### TIme Spent Today: about 1 hour and 45 mins
