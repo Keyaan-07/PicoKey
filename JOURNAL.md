@@ -39,4 +39,7 @@ i didn't work on anything else.
 
 I have thought of something, maybe, i can also make the device as an HID, like how ```@Rudy``` made it, so i am gonna do that probably and complete the pcb today itself.  
 I think the schematic is complete, here it is:  
-![alt text](/images/1/schematic.png)
+![schematic july 1](/images/1/schematic.png)
+
+other than the schematic, i worked on the pcb, here is the current progress:
+![pcb july 1](/images/1/pcb.png)
