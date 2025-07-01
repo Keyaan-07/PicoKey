@@ -25,9 +25,15 @@ Gotta start with the schematic(i didn't)
 
 Finally, my test is over today and now i can work on this PCB. so, starting with the schematic from now on.
 
-# Time spent: about 1 hour (had to learn the rp2350 design guide)
+### Time spent: about 1 hour (had to learn the rp2350 design guide)
 
 # June 30 2025
 I did the work yesterday but then i was ordered to chut down the laptop immediately, so i had to go, anyways, here are the pictures from yesterday:
 
 ![schematic](/images/29/schematic.png)
+
+i didn't work on anything else.
+
+# July 1 2025
+
+I have thought of something, maybe, i can also make the device as an HID, like how ```@Rudy``` made it, so i am gonna do that probably and complete the pcb today itself. 
