@@ -46,3 +46,5 @@ other than the schematic, i worked on the pcb, here is the current progress:
 
 I also added an ESD protection IC, here it is:  
 ![esd IC](/images/1/esd.png)  
+
+### TIme Spent Today: about 1 hour
