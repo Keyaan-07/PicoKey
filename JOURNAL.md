@@ -37,4 +37,6 @@ i didn't work on anything else.
 
 # July 1 2025
 
-I have thought of something, maybe, i can also make the device as an HID, like how ```@Rudy``` made it, so i am gonna do that probably and complete the pcb today itself. 
+I have thought of something, maybe, i can also make the device as an HID, like how ```@Rudy``` made it, so i am gonna do that probably and complete the pcb today itself.  
+I think the schematic is complete, here it is:  
+![alt text](/images/1/schematic.png)
