@@ -3486,6 +3486,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 93.98) (xy 110.49 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aa13be1-519f-4145-94ea-d844d7c212e7")
+	)
+	(wire
+		(pts
 			(xy 179.07 60.96) (xy 181.61 60.96)
 		)
 		(stroke
@@ -3523,6 +3533,16 @@
 			(type default)
 		)
 		(uuid "41f2b3ae-b341-4231-8815-07ff2a6a0315")
+	)
+	(wire
+		(pts
+			(xy 106.68 88.9) (xy 110.49 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "420005c8-9c27-4484-b805-fe2e9af903a4")
 	)
 	(wire
 		(pts
@@ -4298,6 +4318,28 @@
 	)
 	(global_label "GND"
 		(shape input)
+		(at 110.49 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "27c405de-a674-48db-b26d-ed0c3a7ec7de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
 		(at 72.39 106.68 270)
 		(fields_autoplaced yes)
 		(effects
@@ -4694,7 +4736,7 @@
 	)
 	(global_label "USB_DP"
 		(shape input)
-		(at 110.49 88.9 180)
+		(at 106.68 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4704,7 +4746,7 @@
 		)
 		(uuid "728ad5e6-c233-4298-9cb1-3ec15d91782b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.1872 88.9 0)
+			(at 96.3772 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +5154,7 @@
 	)
 	(global_label "USB_DM"
 		(shape input)
-		(at 110.49 93.98 180)
+		(at 106.68 88.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5122,7 +5164,7 @@
 		)
 		(uuid "e7a327c3-b148-46b3-97d6-652187184e62")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.0058 93.98 0)
+			(at 96.1958 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
