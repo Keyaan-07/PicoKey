@@ -3986,6 +3986,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 129.54) (xy 251.46 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2870dcb-4a7c-4d9d-9d7e-0114469eff98")
+	)
+	(wire
+		(pts
 			(xy 173.99 27.94) (xy 179.07 27.94)
 		)
 		(stroke
@@ -4003,16 +4013,6 @@
 			(type default)
 		)
 		(uuid "c4d88ec8-3b44-4de6-bd84-8717140dcad7")
-	)
-	(wire
-		(pts
-			(xy 243.84 93.98) (xy 251.46 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6d51dce-c404-4004-b0be-2da03822b7a0")
 	)
 	(wire
 		(pts
@@ -4428,7 +4428,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 269.24 93.98 0)
+		(at 269.24 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4438,7 +4438,7 @@
 		)
 		(uuid "419c6be3-cd51-497d-b93d-ce3a37bcfcc9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 276.0957 93.98 0)
+			(at 276.0957 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5360,7 +5360,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 264.16 93.98 0)
+		(at 264.16 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5368,7 +5368,7 @@
 		(dnp no)
 		(uuid "124334f0-2749-446e-a61f-b614ea92b64a")
 		(property "Reference" "SW2"
-			(at 264.16 96.266 0)
+			(at 264.16 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5376,7 +5376,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 263.906 98.298 0)
+			(at 263.906 133.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5384,7 +5384,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
-			(at 264.16 88.9 0)
+			(at 264.16 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5393,7 +5393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 264.16 88.9 0)
+			(at 264.16 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5402,7 +5402,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 264.16 93.98 0)
+			(at 264.16 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7904,7 +7904,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 255.27 93.98 90)
+		(at 255.27 129.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7912,7 +7912,7 @@
 		(dnp no)
 		(uuid "ff466e1b-694c-48f0-b11b-0f58c2d38237")
 		(property "Reference" "R7"
-			(at 255.27 88.646 90)
+			(at 255.27 124.206 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7920,7 +7920,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 255.27 91.186 90)
+			(at 255.27 126.746 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7928,7 +7928,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 255.27 95.758 90)
+			(at 255.27 131.318 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7937,7 +7937,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 93.98 0)
+			(at 255.27 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7946,7 +7946,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 255.27 93.98 0)
+			(at 255.27 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
