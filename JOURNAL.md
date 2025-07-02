@@ -57,3 +57,6 @@ Anyways, here is the updated PCB:
 ![pcb july 1](/images/1/pcb_2.png)  
 
 ### TIme Spent Today: about 1 hour and 45 mins
+
+# July 2 2025
+Yooo i am in school, goota work on the pcb a lil bit.
