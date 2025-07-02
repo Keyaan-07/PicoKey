@@ -59,4 +59,11 @@ Anyways, here is the updated PCB:
 ### TIme Spent Today: about 1 hour and 45 mins
 
 # July 2 2025
-Yooo i am in school, goota work on the pcb a lil bit.
+Yooo i am in school, gotta work on the pcb a lil bit.  
+Here it the work i did:  
+![pcb july 1](/images/2/pcb.png)  
+
+i might just complete the PCB today if i get time. 
+This two sided PCB is so hard to deal with 😭
+
+### Time Spent Today: about 45 mins
