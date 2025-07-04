@@ -84,3 +84,5 @@ And Now the PCB:
 ![](/images/4/pcb_poured.png)  
 
 I still have to add some silkscreens and will do that later or tomorrow
+
+### Time Spent Today: 1 hour 10 mins
