@@ -67,3 +67,7 @@ i might just complete the PCB today if i get time.
 This two sided PCB is so hard to deal with 😭
 
 ### Time Spent Today: about 45 mins
+
+# July 4 2025
+
+I am in school againn!!! Gotta work on the PCB.
