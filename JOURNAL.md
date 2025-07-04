@@ -72,3 +72,5 @@ This two sided PCB is so hard to deal with 😭
 
 I am in school againn!!! Gotta work on the PCB.
 in school, i just changed the PCB side and make it round rectangular. nothing more nothing fancy, although i attracted attention of a few of my friends when doing so!
+
+Now i am starting to work again. will update soon
