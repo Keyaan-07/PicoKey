@@ -74,3 +74,13 @@ I am in school againn!!! Gotta work on the PCB.
 in school, i just changed the PCB side and make it round rectangular. nothing more nothing fancy, although i attracted attention of a few of my friends when doing so!
 
 Now i am starting to work again. will update soon
+
+yay, i worked and i think the PCB is complete. the one thing that amazes pcb makers:
+
+![](/images/4/no_errors.png)  
+
+And Now the PCB:  
+![](/images/4/pcb.png)  
+![](/images/4/pcb_poured.png)  
+
+I still have to add some silkscreens and will do that later or tomorrow
