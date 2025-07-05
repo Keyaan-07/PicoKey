@@ -86,3 +86,10 @@ And Now the PCB:
 I still have to add some silkscreens and will do that later or tomorrow
 
 ### Time Spent Today: 1 hour 10 mins
+
+# July 5 2025
+worked on the pcb, added silkscreen layers and stuff, the final size comes to 34.5mm x 18.5mm, nice. Here is the final image of the pcb and the schematic and the 3d model:  
+![final pcb img](/images/5/pcb_final.png)
+![3d 1](/images/5/3d_1.png)
+![3d 2](/images/5/3d_2.png)
+![final sch img](/images/5/sch_final.png)
