@@ -103,3 +103,6 @@ I am done, here are the updated images:
 ![final cad 1](/images/7/3d_1_final.png)
 ![final cad 2](/images/7/3d_2_final.png)
 ![final sch img](/images/5/sch_final.png)
+
+
+### Time Spent Today: 10 mins
