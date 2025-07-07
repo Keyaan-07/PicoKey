@@ -93,3 +93,13 @@ worked on the pcb, added silkscreen layers and stuff, the final size comes to 34
 ![3d 1](/images/5/3d_1.png)
 ![3d 2](/images/5/3d_2.png)
 ![final sch img](/images/5/sch_final.png)
+
+
+# July 7 2025:  
+I will have to change the footprint of the 3.3uH inductor used for the RP2350A inbuilt regulator. Gonna do that rn.
+
+I am done, here are the updated images:  
+![final pcb img](/images/7/pcb_final_2.png)
+![final cad 1](/images/7/3d_1_final.png)
+![final cad 2](/images/7/3d_2_final.png)
+![final sch img](/images/5/sch_final.png)
