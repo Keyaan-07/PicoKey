@@ -7,8 +7,8 @@ I think it can also function as a USB-HID device because it has an external butt
 It has USB-A in the PCB itself soo need for external connectors, however, you either need to order a 2.0mm thick PCB(expensive) or you need to order a 1.6mm PCB(pretty cheap) and make up for the 0.4mm using tape or some other method.  
 
 ### Features:
-> Small form factor: 3.45cm x 1.85 cm
-> Uses the latest MCU from Raspberyy Pi, the RP2350A
-> Could Potentially have HID Compatibility
+> Small form factor: 3.45cm x 1.85 cm  
+> Uses the latest MCU from Raspberyy Pi, the RP2350A  
+> Could Potentially have HID Compatibility  
 
-Idea taken from ```@Rudy``` 's [RP2350 hardware key](https://github.com/Outdatedcandy92/PicoDucky)
+Idea taken from ```@Rudy``` 's [RP2350 hardware key](https://github.com/Outdatedcandy92/PicoDucky)  
