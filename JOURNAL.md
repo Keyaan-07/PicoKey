@@ -106,4 +106,7 @@ I am done, here are the updated images:
 
 Now i am gonna try to finish writing the README tonight itself.
 
+Oh hell nah, i forgot to label BOOTSEL AND THE BUTTON, gonna do that just now
+
+
 ### Time Spent Today: 10 mins
