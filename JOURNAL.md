@@ -104,5 +104,6 @@ I am done, here are the updated images:
 ![final cad 2](/images/7/3d_2_final.png)
 ![final sch img](/images/5/sch_final.png)
 
+Now i am gonna try to finish writing the README tonight itself.
 
 ### Time Spent Today: 10 mins
