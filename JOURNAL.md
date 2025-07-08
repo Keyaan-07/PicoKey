@@ -110,3 +110,11 @@ Oh hell nah, i forgot to label BOOTSEL AND THE BUTTON, gonna do that just now
 
 
 ### Time Spent Today: 10 mins
+
+# July 8 2025
+I updated the silkscreen a little bit now this is how it looks:  
+
+![final pcb img](/images/8/pcb_final_3.png)  
+![final cad 1](/images/8/3d_1_final_2.png)  
+![final cad 2](/images/8/3d_2_final_2.png)  
+![final sch img](/images/5/sch_final.png)  
