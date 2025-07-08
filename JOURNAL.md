@@ -118,3 +118,7 @@ I updated the silkscreen a little bit now this is how it looks:
 ![final cad 1](/images/8/3d_1_final_2.png)  
 ![final cad 2](/images/8/3d_2_final_2.png)  
 ![final sch img](/images/5/sch_final.png)  
+
+
+Now i am gonna start writing the BOM and write more README and 
+### Time Spent Today: 10 mins
