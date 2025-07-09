@@ -1,5 +1,4 @@
-# PicoKey
-![final cad 1](/images/8/3d_1_final_2.png)  
+# PicoKey 
 
 I go to highschool, and teens are always around when i try to login to my mail or github or any other account, so my password can be compromised.  
 
