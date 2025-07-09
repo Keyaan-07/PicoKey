@@ -121,4 +121,9 @@ I updated the silkscreen a little bit now this is how it looks:
 
 
 Now i am gonna start writing the BOM and write more README and 
+
+And i did very little stuff.
 ### Time Spent Today: 10 mins
+
+# July 9 2025
+Uhhhh i dont wanna procastinate but i wanna complete and submit asap, i still have to write the BOM for it fkjhadfjkshakjdsfhkj.    
