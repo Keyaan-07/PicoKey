@@ -38,4 +38,11 @@ I chose to make this project mainly for 2 reasons:
 
 
 # BOM
-WIP
+
+| ITEM NAME                   | ITEM PRICE | FUNCTION                 | URL                                       |
+| --------------------------- | ---------- | ------------------------ | ----------------------------------------- |
+| Pcb Manufacturing + stencil | 23.82      | main pcb and smt stencil | [https://jlcpcb.com](https://jlcpcb.com/) |
+| PCB Components              | 21.1131    | components on the PCB    | [https://lcsc.com](https://lcsc.com/)     |
+|  Total                  | 44.93      | USD                      |                                           |
+
+# PCB Components Breakdown
