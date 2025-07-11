@@ -12,6 +12,7 @@ It has USB-A in the PCB itself soo need for external connectors, however, you ei
 > Small form factor: 3.45cm x 1.85 cm  
 > Uses the latest MCU from Raspberyy Pi, the RP2350A  
 > Could Potentially have HID Compatibility  
+> USB inbuilt the PCB
 
 Idea taken from ```@Rudy``` 's [RP2350 hardware key](https://github.com/Outdatedcandy92/PicoDucky)  
 
