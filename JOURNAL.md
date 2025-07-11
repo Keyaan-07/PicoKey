@@ -129,3 +129,6 @@ And i did very little stuff.
 Uhhhh i dont wanna procastinate but i wanna complete and submit asap, i still have to write the BOM for it fkjhadfjkshakjdsfhkj.    
 
 oh wait, i just realised that if i order from JLC, the declared value will be 12 USD, which is too much which i can't pay, so i will have to switch to ordering the pcb and stencil from JLC and components form LCSC.
+
+# July 11 2025:
+worked a bit on the BOm today, made it completely and now gonna work on making all the other things for submission
