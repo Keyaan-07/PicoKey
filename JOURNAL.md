@@ -132,3 +132,5 @@ oh wait, i just realised that if i order from JLC, the declared value will be 12
 
 # July 11 2025:
 worked a bit on the BOm today, made it completely and now gonna work on making all the other things for submission
+
+### Time Spent Today: 45 mins 
