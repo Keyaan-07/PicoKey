@@ -2,7 +2,7 @@
 
 I go to highschool, and teens are always around when i try to login to my mail or github or any other account, so my password can be compromised.  
 
-To solve this, I created PicoKey, which is a hardware pass key in a very small form factor. It uses the RP2350A chip, although I wanted to use my favourite MCU, the rp2040, it was not safe as a pass key, so I used the rp2350A this time, which is much more safer and secure than the RP2350A.  
+To solve this, I created PicoKey, which is a hardware pass key in a very small form factor(34.5mm x 18.5mm). It uses the RP2350A chip, although I wanted to use my favourite MCU, the rp2040, it was not safe as a pass key, so I used the rp2350A this time, which is much more safer and secure than the RP2350A.  
 
 I think it can also function as a USB-HID device because it has an external button too and 16Mb of memory size.
 
